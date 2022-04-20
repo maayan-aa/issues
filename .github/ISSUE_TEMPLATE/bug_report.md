@@ -12,7 +12,7 @@ A clear and concise description of what the bug is.
 
 
 **Issue number**
-whatever
+#whatever
 
 **To Reproduce**
 Steps to reproduce the behavior:
