@@ -10,7 +10,9 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is.
 
-**https://secure.helpscout.net/conversation/1839730421/10?folderId=whatever**
+
+**Issue number**
+whatever
 
 **To Reproduce**
 Steps to reproduce the behavior:
